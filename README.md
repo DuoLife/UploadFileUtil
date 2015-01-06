@@ -1,7 +1,7 @@
 UploadFileUtil
 ==============
 
-基于org.apache.commons.fileupload。对其进行了一些封装，简单易用。  
+基于org.apache.commons.fileupload（http://commons.apache.org/proper/commons-fileupload ）。对其进行了一些封装，简单易用。  
 由于上传文件时，需要设定method=“post”，并且enctype=“multipart/form-data”。
 所以，服务端需要做更多的工作来获取文件，也不能使用通常的方法来获取请求参数。
 UploadFileUtil就是为了简化这些工作，并且让你更好的专注业务逻辑而非这些细节。
