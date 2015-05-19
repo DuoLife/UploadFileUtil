@@ -29,11 +29,5 @@ public class ExceptionMessage {
 	public final static String NULLFileItemException = "上传文件为空";
 	public final static String WriteToFileException = "上传文件写入错误";
 	public final static String UnsupportedEncodingException = "上传表单字段编码错误";
-	public final static String Shit = "你传的是啥鸡巴玩意~";
-//	public final static String shit = "你传的是啥鸡巴玩意~";
-//	public final static String shit = "你传的是啥鸡巴玩意~";
-//	public final static String shit = "你传的是啥鸡巴玩意~";
-//	public final static String shit = "你传的是啥鸡巴玩意~";
-//	public final static String shit = "你传的是啥鸡巴玩意~";
-//	public final static String shit = "你传的是啥鸡巴玩意~";
+	public final static String Shit = "您上传的不是附件类型~";
 }
